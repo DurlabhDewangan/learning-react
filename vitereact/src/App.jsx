@@ -1,9 +1,9 @@
-
+import MyName from "./durlabh"
 function App() {
  
 
   return (
-  <h1>react with vite | durlabh</h1>
+  <MyName/>
   )
 }
 
