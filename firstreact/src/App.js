@@ -1,9 +1,11 @@
-import MyName from "./Durlabh";
+import HelloUser from "./Durlabh";
+
 function App() {
   return (
     <>
  <h1>react app</h1>
- <MyName/>
+ <HelloUser name="kai"/>
+ <HelloUser name="tyson"/>
  </>
   );
 }

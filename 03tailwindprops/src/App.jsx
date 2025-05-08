@@ -40,7 +40,7 @@ I can read your lips on your fingertips
 I can feel your smile
 Come on and hold me tight
 Come on and hold me tight now
-Let’s pretend the moment’s right
+Let’s pretend the moment's right
 
 Kiss me
 Close your eyes and miss me

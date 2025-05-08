@@ -1,8 +1,8 @@
-function MyName(){
+function HelloUser(props){
     return(
-        <h1>durlabh sagar dewangan </h1>
+        <h1>hello {props.name} </h1>
     )
 
 }
 
-export default MyName;
+export default HelloUser;
