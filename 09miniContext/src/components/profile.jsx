@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import UserContext from '../context/UserContext'
 
 
@@ -7,7 +7,7 @@ function Profile() {
   
     if (!user) return <div>please login</div>
 
-    return <div>Welcome {user.username}</div>
+    return <div>Welcome {user.username} kya apka password ye tha {user.pass}</div>
 
 }
 
